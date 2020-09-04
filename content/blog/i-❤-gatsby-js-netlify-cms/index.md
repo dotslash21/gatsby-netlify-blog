@@ -1,6 +1,6 @@
 ---
 title: I ❤ Gatsby.js + Netlify CMS
-date: 2020-09-04T07:34:10.740Z
+date: 2020-09-04T07:45:19.893Z
 description: "My experience in creating my first blog site using Gatsby.js and
   Netlify CMS. "
 ---
