@@ -1,0 +1,12 @@
+{
+  "phone": "1234567890",
+  "email": "example@domain.com",
+  "address": {
+    "street": "123, example street",
+    "street2": "example area",
+    "city": "Example City",
+    "state": "Example State",
+    "country": "Example Country",
+    "pincode": 123456
+  }
+}
